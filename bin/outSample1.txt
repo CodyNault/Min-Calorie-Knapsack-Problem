@@ -1,0 +1,11 @@
+Iterative:
+Possible to spend exactly: 1900
+Minimum calories: 2400
+chimi 4
+cola 1
+
+Memoized:
+Possible to spend exactly: 1900
+Minimum calories: 2400
+chimi 4
+cola 1

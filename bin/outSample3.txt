@@ -1,0 +1,13 @@
+Iterative:
+Possible to spend exactly: 1000000
+Minimum calories: 725166
+B 2
+C 3620
+D 2
+
+Memoized:
+Possible to spend exactly: 1000000
+Minimum calories: 725166
+B 2
+C 3620
+D 2
