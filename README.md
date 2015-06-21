@@ -1,7 +1,9 @@
 Minimum-Calorie Knapsack Problem
 -------------------
 Author: Cody Nault
+
 Date: 5/29/2015
+
 This is a C++ implementation of a classic Knapsack problem with a restaurant twist. 
 The goal here is to take in a list of food items, with their corresponding cost and calorie count, 
 and find the minimum number of calories that we can but with exactly X amount of money.
